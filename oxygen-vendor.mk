@@ -1774,6 +1774,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/oxygen/proprietary/vendor/lib64/libmmosal.so:system/vendor/lib64/libmmosal.so \
     vendor/xiaomi/oxygen/proprietary/vendor/lib64/libnetmgr.so:system/vendor/lib64/libnetmgr.so \
     vendor/xiaomi/oxygen/proprietary/vendor/lib64/libperipheral_client.so:system/vendor/lib64/libperipheral_client.so \
+    vendor/xiaomi/oxygen/proprietary/vendor/lib64/libprotobuf-cpp-S.so:system/vendor/lib64/libprotobuf-cpp-S.so \
     vendor/xiaomi/oxygen/proprietary/vendor/lib64/libqcci_legacy.so:system/vendor/lib64/libqcci_legacy.so \
     vendor/xiaomi/oxygen/proprietary/vendor/lib64/libqcmaputils.so:system/vendor/lib64/libqcmaputils.so \
     vendor/xiaomi/oxygen/proprietary/vendor/lib64/libqdi.so:system/vendor/lib64/libqdi.so \
